@@ -6,7 +6,7 @@ function App() {
     <main>
       <h1>I am da bears</h1>
       <h2>
-        Deployed with{' ya motha '}
+        Deployed by{' a bear '}
         !
       </h2>
     </main>
